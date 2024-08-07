@@ -1,0 +1,17 @@
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Repository.deps.json
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Repository.dll
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Repository.pdb
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.AssemblyInfoInputs.cache
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.AssemblyInfo.cs
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.csproj.CoreCompileInputs.cache
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.dll
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\refint\Kds.Repository.dll
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.pdb
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\ref\Kds.Repository.dll
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Repository.runtimeconfig.json
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Domain.dll
+C:\KDS\KDS\Kds.Repository\bin\Debug\net8.0\Kds.Domain.pdb
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.csproj.AssemblyReference.cache
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repo.46713F25.Up2Date
+C:\KDS\KDS\Kds.Repository\obj\Debug\net8.0\Kds.Repository.genruntimeconfig.cache

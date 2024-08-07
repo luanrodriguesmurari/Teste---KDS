@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o6LClNKLcJkcvHk1oAyGVIDu1oRbqn5sGm9//OtYoAk=",
+  "Source": "Kds.Api",
+  "BasePath": "_content/Kds.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

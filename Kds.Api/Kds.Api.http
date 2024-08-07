@@ -1,0 +1,6 @@
+@Kds.Api_HostAddress = http://localhost:5206
+
+GET {{Kds.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

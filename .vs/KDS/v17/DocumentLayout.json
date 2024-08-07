@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KDS\\KDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4868CD-C928-4231-8D7B-39722AB23481}|Kds.Business.Test\\Kds.Business.Test.csproj|c:\\kds\\kds\\kds.business.test\\orders\\ordersbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4868CD-C928-4231-8D7B-39722AB23481}|Kds.Business.Test\\Kds.Business.Test.csproj|solutionrelative:kds.business.test\\orders\\ordersbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersBusinessTests.cs",
+              "DocumentMoniker": "C:\\KDS\\KDS\\Kds.Business.Test\\Orders\\OrdersBusinessTests.cs",
+              "RelativeDocumentMoniker": "Kds.Business.Test\\Orders\\OrdersBusinessTests.cs",
+              "ToolTip": "C:\\KDS\\KDS\\Kds.Business.Test\\Orders\\OrdersBusinessTests.cs",
+              "RelativeToolTip": "Kds.Business.Test\\Orders\\OrdersBusinessTests.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAiwMIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:59:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

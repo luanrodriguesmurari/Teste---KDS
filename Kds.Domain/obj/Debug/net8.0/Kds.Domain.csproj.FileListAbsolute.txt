@@ -1,0 +1,12 @@
+C:\KDS\KDS\Kds.Domain\bin\Debug\net8.0\Kds.Domain.deps.json
+C:\KDS\KDS\Kds.Domain\bin\Debug\net8.0\Kds.Domain.dll
+C:\KDS\KDS\Kds.Domain\bin\Debug\net8.0\Kds.Domain.pdb
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.AssemblyInfoInputs.cache
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.AssemblyInfo.cs
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.csproj.CoreCompileInputs.cache
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.dll
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\refint\Kds.Domain.dll
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.pdb
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\ref\Kds.Domain.dll
+C:\KDS\KDS\Kds.Domain\obj\Debug\net8.0\Kds.Domain.csproj.AssemblyReference.cache
